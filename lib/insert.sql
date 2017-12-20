@@ -16,5 +16,8 @@ VALUES (5, "Melissa", 5, 'F',"black", "hungry", true);
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
 VALUES (6, "Grinch", 6, 'M',"yellow", "smart", true);
 
+INSERT INTO bears (id, name, age, gender, color, temperament, alive)
+VALUES (7, "Wendy", 7, 'F',"yellow", "goofy", true);
+
 INSERT INTO bears (id, age, gender, color, temperament, alive)
-VALUES (7, 7, 'M',"black", "sad", false);
+VALUES (8, 8, 'M',"black", "sad", false);
